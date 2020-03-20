@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Mar 20 12:22:43 2020
+# Process ID: 6604
+# Current directory: C:/Users/Ufuk Palpas/Desktop/Dersler/2.Year/2. Year - 1. Semester/CS-223/Project/Projenin bitmiþ hali/Palpas_Ufuk_05/project223
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17344 C:\Users\Ufuk Palpas\Desktop\Dersler\2.Year\2. Year - 1. Semester\CS-223\Project\Projenin bitmiþ hali\Palpas_Ufuk_05\project223\project223.xpr
+# Log file: C:/Users/Ufuk Palpas/Desktop/Dersler/2.Year/2. Year - 1. Semester/CS-223/Project/Projenin bitmiþ hali/Palpas_Ufuk_05/project223/vivado.log
+# Journal file: C:/Users/Ufuk Palpas/Desktop/Dersler/2.Year/2. Year - 1. Semester/CS-223/Project/Projenin bitmiþ hali/Palpas_Ufuk_05/project223\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Ufuk Palpas/Desktop/Dersler/2.Year/2. Year - 1. Semester/CS-223/Project/Projenin bitmiþ hali/Palpas_Ufuk_05/project223/project223.xpr}
+update_compile_order -fileset sources_1
